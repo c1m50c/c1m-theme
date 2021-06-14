@@ -14,7 +14,7 @@
         "tab.border": "#0c0d1000",
         "terminal.background": "#240f1b",
         "panel.background": "#0c0d107c",
-        "editor.background": "#18171f",
+        "editor.background": "#171c1f",
         "editor.foreground": "#ffffff",
         "activityBarBadge.background": "#e96f4a",
         "sideBar.background": "#0c0d107c",
@@ -192,7 +192,7 @@
                 "support.type.sys-types"
             ],
             "settings": {
-                "foreground": "#ffdc6b"
+                "foreground": "#ffcb6b"
             }
         },
         {

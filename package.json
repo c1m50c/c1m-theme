@@ -2,7 +2,7 @@
     "name": "c1m-theme",
     "displayName": "c1m Theme",
     "description": "Just another color theme for VSCode.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "c1m",
     "repository": {
         "type": "git",

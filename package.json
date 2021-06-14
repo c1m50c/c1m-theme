@@ -4,6 +4,10 @@
     "description": "Just another color theme for VSCode.",
     "version": "0.0.1",
     "publisher": "c1m",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/c1m50c/c1m-theme"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },

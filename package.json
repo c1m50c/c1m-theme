@@ -1,0 +1,22 @@
+{
+    "name": "c1m-theme",
+    "displayName": "c1m Theme",
+    "description": "Just another color theme for VSCode.",
+    "version": "0.0.1",
+    "publisher": "c1m",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "c1m Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/c1m Theme-color-theme.json"
+            }
+        ]
+    }
+}

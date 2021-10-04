@@ -1,5 +1,5 @@
 {
-    "name": "c1m Theme - Dark",
+    "name": "c1m Theme - Nu",
     "type": "dark",
     "colors": {
         "editorGroupHeader.tabsBackground": "#0c0d107c",
@@ -22,7 +22,7 @@
         "activityBar.activeBackground": "#c76da6",
         "statusBar.background": "#2b17417c",
         "statusBar.debuggingBackground": "#2b17417c",
-        "statusBar.noFolderBackground": "#2b17417c",
+        "statusBar.noFolderBackground": "#2b17417c"
     },
     "tokenColors": [
         {
@@ -33,7 +33,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#7c7c7c7c"
+                "foreground": "#ffffff7c"
             }
         },
         {
@@ -72,13 +72,13 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#d074c5",
+                "foreground": "#d074c5"
             }
         },
         {
             "name": "Storage Type",
             "scope": [
-                "storage.type",
+                "storage.type"
             ],
             "settings": {
                 "foreground": "#47d4ed",
@@ -236,7 +236,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#ff8095",
+                "foreground": "#ff8095"
             }
         },
         {

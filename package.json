@@ -17,14 +17,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "c1m Theme - Dark",
+                "label": "c1m Theme - Mutated",
                 "uiTheme": "vs-dark",
-                "path": "./themes/c1m-theme-dark.json"
+                "path": "./themes/c1m-theme-mutated.json"
             },
             {
                 "label": "c1m Theme - Horizon",
                 "uiTheme": "vs-dark",
                 "path": "./themes/c1m-theme-horizon.json"
+            },
+            {
+                "label": "c1m Theme - Nu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/c1m-theme-nu.json"
             }
         ]
     }

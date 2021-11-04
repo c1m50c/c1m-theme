@@ -1,28 +1,28 @@
 {
-    "name": "c1m Theme - Dark",
+    "name": "c1m Theme - Material",
     "type": "dark",
     "colors": {
-        "editorGroupHeader.tabsBackground": "#0c0d107c",
-        "button.background": "#dc906c",
+        "editorGroupHeader.tabsBackground": "#100f0c7c",
+        "button.background": "#dcaf6c",
         "button.foreground": "#ffffff",
-        "button.border": "#dc906c7c",
+        "button.border": "#dcaf6c7c",
         "foreground": "#ffffff",
-        "titleBar.activeBackground": "#2b17417c",
-        "tab.activeBackground": "#461634",
-        "tab.inactiveBackground": "#2c0d21",
-        "tab.hoverBackground": "#873467",
-        "tab.border": "#0c0d1000",
+        "titleBar.activeBackground": "#17130d7c",
+        "tab.activeBackground": "#40372f",
+        "tab.inactiveBackground": "#241f1a",
+        "tab.hoverBackground": "#634f39",
+        "tab.border": "#100f0c00",
         "terminal.background": "#240f1b",
-        "panel.background": "#0c0d107c",
-        "editor.background": "#171c1f",
+        "panel.background": "#100f0c7c",
+        "editor.background": "#1f1e1e",
         "editor.foreground": "#ffffff",
         "activityBarBadge.background": "#e96f4a",
-        "sideBar.background": "#0c0d107c",
-        "activityBar.background": "#2b17417c",
+        "sideBar.background": "#100f0c7c",
+        "activityBar.background": "#17130d7c",
         "activityBar.activeBackground": "#c76da6",
-        "statusBar.background": "#2b17417c",
-        "statusBar.debuggingBackground": "#2b17417c",
-        "statusBar.noFolderBackground": "#2b17417c"
+        "statusBar.background": "#17130d7c",
+        "statusBar.debuggingBackground": "#17130d7c",
+        "statusBar.noFolderBackground": "#17130d7c"
     },
     "tokenColors": [
         {
@@ -33,7 +33,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#7c7c7c7c"
+                "foreground": "#4A4A4A"
             }
         },
         {
@@ -43,7 +43,7 @@
                 "string constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#ffffff"
+                "foreground": "#EEFFFF"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "#ff002b"
+                "foreground": "#FF5370"
             }
         },
         {
@@ -81,7 +81,7 @@
                 "storage.type"
             ],
             "settings": {
-                "foreground": "#47d4ed",
+                "foreground": "#d074c5",
                 "fontStyle": "bold"
             }
         },
@@ -102,7 +102,7 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#ca89ff"
+                "foreground": "#89DDFF"
             }
         },
         {
@@ -126,7 +126,7 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#ff9f82"
+                "foreground": "#82AAFF"
             }
         },
         {
@@ -161,7 +161,7 @@
                 "keyword.other"
             ],
             "settings": {
-                "foreground": "#f56296"
+                "foreground": "#F78C6C"
             }
         },
         {
@@ -176,7 +176,7 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "foreground": "#b8f573"
+                "foreground": "#C3E88D"
             }
         },
         {
@@ -192,7 +192,7 @@
                 "support.type.sys-types"
             ],
             "settings": {
-                "foreground": "#ffcb6b"
+                "foreground": "#FFCB6B"
             }
         },
         {
@@ -236,7 +236,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#ff8095"
+                "foreground": "#FF5370"
             }
         },
         {

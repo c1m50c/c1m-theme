@@ -130,6 +130,16 @@
             }
         },
         {
+            "name": "Macros",
+            "scope": [
+                "entity.name.function.macro.rust",
+                "meta.macro.rust"
+            ],
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
             "name": "Block Level Variables",
             "scope": [
                 "meta.block variable.other"

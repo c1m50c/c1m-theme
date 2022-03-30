@@ -149,6 +149,16 @@
             }
         },
         {
+            "name": "Macros",
+            "scope": [
+                "entity.name.function.macro.rust",
+                "meta.macro.rust"
+            ],
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
             "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
             "scope": [
                 "constant.numeric",

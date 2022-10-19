@@ -2,7 +2,7 @@
     "name": "c1m-theme",
     "displayName": "c1m Theme",
     "description": "Just another color theme for VSCode.",
-    "version": "1.1.0",
+    "version": "1.3.0",
     "publisher": "c1m",
     "repository": {
         "type": "git",
@@ -12,6 +12,7 @@
         "theme",
         "color theme",
         "dark theme",
+        "light theme",
         "c1m theme",
         "c1m"
     ],
@@ -24,19 +25,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "c1m Theme - Dark",
+                "label": "c1m | Mutation 🧬",
                 "uiTheme": "vs-dark",
-                "path": "./themes/c1m-theme-dark.json"
+                "path": "./themes/c1m-mutation.json"
             },
             {
-                "label": "c1m Theme - Horizon",
+                "label": "c1m | Shades 😎",
                 "uiTheme": "vs-dark",
-                "path": "./themes/c1m-theme-horizon.json"
-            },
-            {
-                "label": "c1m Theme - Material",
-                "uiTheme": "vs-dark",
-                "path": "./themes/c1m-theme-material.json"
+                "path": "./themes/c1m-shades.json"
             }
         ]
     }

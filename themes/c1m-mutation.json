@@ -1,5 +1,6 @@
 {
-    "name": "c1m Theme - Dark",
+    "$schema": "vscode://schemas/color-theme",
+    "name": "c1m | Mutation 🧬",
     "type": "dark",
     "colors": {
         "editorGroupHeader.tabsBackground": "#0c0d107c",
